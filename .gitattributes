@@ -1,0 +1,4 @@
+Flask/embedded_index.pkl filter=lfs diff=lfs merge=lfs -text
+Flask/ filter=lfs diff=lfs merge=lfs -text
+Flask/* filter=lfs diff=lfs merge=lfs -text
+'./Flask/**' filter=lfs diff=lfs merge=lfs -text
